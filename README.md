@@ -23,4 +23,4 @@ Tasarım desenleri (Design Patterns - GoF), nesne yönelimli yazılım geliştir
 
 Bu çalışma; karmaşık tasarım desenlerini daha küçük, kaynak koda daha yakın ve tespiti daha kolay yapı taşlarına ayıran **mikro-yapılar (micro-structures)** literatürünü sistematik olarak araştırmaktadır (survey).
 
-```
+---
