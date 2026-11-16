@@ -18,7 +18,7 @@ Bu depo; Francesca Arcelli Fontana, Stefano Maggioni ve Claudia Raibulet tarafı
 ## 📖 Genel Bakış ve Problem Tanımı
 
 Tasarım desenleri (Design Patterns - GoF), nesne yönelimli yazılım geliştirmede karşılaşılan yaygın problemlere getirilen standart, yeniden kullanılabilir mimari çözümlerdir. Ancak kod tabanlarında tasarım desenlerinin tespiti (Design Pattern Detection - DPD) aşağıdaki sebeplerden ötürü oldukça zordur:
-1. **Bağlamsal Çeşitlilik (Variants):** Desenlerin projeye özgü uygulanması sırasında yapılar değişebilir veya eksik uygulanabilir.
+1. **Bağlamsal Çeşitlilik (Variants):** Desenlerin projeye özgü uygulanması sırasında yapılar değişebilir veya eksik uygulanabilir. Makalede 2 çeşit varyanttan bahsedilmektedir.
 2. **Yapısal Karmaşıklık:** Birden çok sınıf arasındaki etkileşimlerin analiz edilmesi yüksek hesaplama maliyeti doğurur.
 
 Bu çalışma; karmaşık tasarım desenlerini daha küçük, kaynak koda daha yakın ve tespiti daha kolay yapı taşlarına ayıran **mikro-yapılar (micro-structures)** literatürünü sistematik olarak araştırmaktadır (survey).
